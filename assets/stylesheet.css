@@ -1,0 +1,183 @@
+.soat{font-family: cursive; font-size: 30px; color: rgb(9, 9, 202); }
+.navbar-brand{font-size: 26px; letter-spacing: -1px; margin-top: 0px; margin-bottom: 0px;}
+.nav-item1 {margin-left: 400px; }
+.navbar-brand{margin-left: 100px;}
+.nav-item{margin-left: 30px;}
+.circle{width: 45px; height: 45px; background-color:whitesmoke; display: flex; border-radius: 50px; margin-left: 200px; }
+.fa-regular{ padding-top: 13px; padding-left: 13px; font-size: 22px;}
+.circle1{}
+.circle2{width: 45px; height: 45px; background-color:rgba(245, 245, 245, 0.5); display: flex; border-radius: 50px; margin-left: 10px; }
+.fa-solid{ padding-top: 13px; padding-left: 12px; font-size: 22px;}
+.fa-brands{padding-top: 13px; padding-left: 12px; font-size: 22px;}
+.circle1{}
+
+
+.amazing{margin-left: 50px; display: inline-block; margin-top: 70px;}
+.sound{display: inline-block; position: absolute; }
+.sound1{font-size: 120px; margin-left: 280px; color: rgba(0, 0, 0, 0.329); margin-top: 50px; font-weight: bold; }
+.main{position: absolute; width: 500px; margin-left: 100px; }
+.superior{position: absolute; margin-left: 830px; margin-top: 140px;}
+
+.a11{border: 1px solid rgba(255, 0, 0, 0); width: 185px; height: 210px;margin-left: 21px; display: inline-block; margin-top: 60px;}
+.a1{background-color: rgba(0, 0, 0, 0.315); width: 185px; height: 150px; position: absolute; margin-top: 60px; margin-left: px;}
+.a2{position: absolute;}
+
+.b11{border: 1px solid rgba(255, 0, 0, 0); width: 187px; height: 212px;margin-left: 21px; display: inline-block; margin-top: 60px;}
+.b1{background-color: lightblue; width: 185px; height: 150px; position: absolute; margin-top: 60px; margin-left: px;}
+.b2{position: absolute; height: 200px; }
+
+.card{width: 100%; height: 170px;  margin-top: 20px; display: inline-block;}
+.card1{height:150px ; width: 310px; border: 1px solid rgba(255, 0, 0, 0.247); margin-left: 100px; display: inline-block; padding-top: 30px;  }
+
+
+.fa-solid{display: inline-block; font-size: 35px; color: rgb(255, 0, 0); vertical-align: middle;   }
+.h1{display: inline-block; vertical-align: middle; line-height: 35px; margin-left: 30px;}
+
+.card2{height:150px ; width: 310px; border: 1px solid rgb(255, 3, 3); margin-left: 100px; display: inline-block; padding-top: 30px;}
+.h2{display: inline-block; vertical-align: middle; line-height: 35px; margin-left: 30px;}
+
+.card3{height:150px ; width: 310px; border: 1px solid rgb(255, 0, 0); margin-left: 100px; display: inline-block; padding-top: 30px;}
+.h3{display: inline-block; vertical-align: middle; line-height: 35px; margin-left: 30px;}
+
+
+.ab{width: 100%; height: 355px;}
+.per1{width: 100%; height: 345px; border: 1px solid rgba(0, 0, 0, 0); padding-left: 140px; padding-top: 50px; position: absolute;}
+.pic{position: absolute; right: 100px;  top: 30px;}
+
+/* .ab2{width: 100%; height: 355px; padding-left: 80px; z-index: 2;}
+/* .per2{width: 100%; height: 285px; border: 1px solid yellow; padding-left: 100px; padding-top: 50px; position: absolute;} */
+/* .pic2{position: absolute; right: 100px;  top: 0px;z-index: 3;}
+.text{display: inline-block; margin-left: 320px; z-index: 3;}
+.text1{ position: absolute; top: 210px; right: 235px;}
+.color{width: 1200px; height: 285px; background-color: grey; position: absolute; top: 1145px;  margin-left: 10px; z-index: 0;} */ 
+
+.color{background-color: grey; width: 1100px; height: 277px; margin-top: 50px; margin-left: 120px;}
+.main1{width: 100%; border: 1px solid rgba(0, 0, 0, 0);}
+.per2{position: absolute; left: 110px; width: 500px;}
+.light{margin-left: 650px; padding-top: 40px;}
+.light1{margin-left: 650px; padding-top: 10px;}
+
+.product{margin-top: 20px; margin-left: 120px;}
+
+.product1{width: 100%; height: 375px; border: 1px solid rgba(175, 238, 238, 0);}
+
+
+.c11{border: 1px solid rgba(255, 0, 0, 0); width: 285px; height: 310px;margin-left: 100px; display: inline-block; margin-top: 60px;}
+.c1{background-color: rgba(0, 0, 0, 0.315); width: 285px; height: 250px; position: absolute; margin-top: 60px; margin-left: px;}
+.c2{position: absolute; width: 300px;}
+
+.d11{border: 1px solid rgba(255, 0, 0, 0); width: 287px; height: 312px;margin-left: 100px; display: inline-block; margin-top: 60px;}
+.d1{background-color: lightblue; width: 285px; height: 250px; position: absolute; margin-top: 60px; margin-left: px;}
+.d2{position: absolute; height: 300px; }
+
+.e11{border: 1px solid rgba(255, 0, 0, 0); width: 287px; height: 312px;margin-left: 100px; display: inline-block; margin-top: 60px;}
+.e1{background-color: rgba(253, 0, 148, 0.11); width: 285px; height: 250px; position: absolute; margin-top: 60px; margin-left: px;}
+.e2{position: absolute; height: 300px; }
+
+.product2{width: 100%; height: 70px; border: 1px solid rgba(255, 166, 0, 0);   }
+
+.mone{display: inline-block;}
+.mon{display: inline-block; margin-left: 100px;}
+
+.form-control{display: inline-block;}
+
+.mone1{display: inline-block;}
+.mon1{display: inline-block; margin-left: 170px;}
+
+
+.mone2{display: inline-block;}
+.mon2{display: inline-block; margin-left: 170px;}
+.{color: #38ff6a;}
+
+.head{width: 100%; height: 500px;}
+
+.hard{color: rgba(0, 0, 0, 0.479); font-size: 210px; width: 130px; margin-left: 180px;}
+
+.left{margin-left: 60px; display: inline-block;}
+.mid{display: inline-block; position: absolute; top: 2000px; border: 1px solid rgba(0, 128, 0, 0); }
+.main2{width: 420px; margin-left: 30px; display: inline-block;}
+.right{margin-left: 500px; display: inline-block;  position: absolute;}
+
+.left1{margin-left: 100px; display: inline-block;}
+
+.boat{margin-top: 70px; margin-left: 50px;}
+
+.last{width: 100%; height: 500px; margin-top: 20px; border: 1px solid rgba(0, 128, 0, 0); padding-top: 10px;}
+
+.a{ position: absolute; left: 100px; z-index: 0; margin-left: 80px; height: 210px;}
+.b{ position: absolute; z-index: 1; margin-left: 40px; margin-top: 150px;}
+.c{position: absolute; z-index: 2; margin-left: 180px; margin-top: 210px; width: 316px; height: 200px;}
+
+.left2{display: inline-block;}
+.right3{display: inline-block; margin-left: 800px; margin-top: 50px; position: absolute; z-index: 2; }
+.ear{font-size: 64px; z-index: 8 ; position: absolute;}
+
+.last1{position: absolute; top: 0; width: 300px; z-index: 0; margin-left: 20px;}
+
+.email{margin-top: 310px;}
+
+.box{margin-top: 20px; vertical-align: top; border: 1px solid rgba(255, 0, 0, 0.781); height: 29px;}
+.box1{width: 100px; height:29px; vertical-align: top; margin-top: 20px; background-color: black;}
+.box2{color: white;}
+
+.second{width: 100%; height: 6
+    0px; border: 1px solid rgba(255, 68, 0, 0); text-align: center;}
+
+    .footer{width: 100%; height: 330px; border: 1px solid rgba(144, 238, 144, 0);}
+    .first{width: 200px; height: 300px; border: 1px solid rgba(0, 0, 0, 0); margin-left: 40px; margin-top: 20px; display: inline-block; vertical-align: top;}
+    .second1{width: 200px; height: 300px; border: 1px solid rgba(0, 0, 0, 0); margin-left: 40px; margin-top: 20px; display: inline-block; vertical-align: top;}
+    .third{width: 200px; height: 300px; border: 1px solid rgba(0, 0, 0, 0); margin-left: 40px; margin-top: 20px; display: inline-block; vertical-align: top;}
+
+    .fourth{width: 400px; height: 300px; border: 1px solid rgba(0, 0, 0, 0); margin-left: 40px; margin-top: 20px; display: inline-block; vertical-align: top;}
+
+    .fa-brands{float: right;}
+
+    .navbar-brand1{font-size: 100px; letter-spacing: -1px; margin-top: 0px; margin-bottom: 0px; float: right; line-height: 120px;}
+    .navbar-brand1{margin-left: 180px;}
+    .soat1{font-family: cursive; font-size: 130px; color: rgb(9, 9, 202); }
+
+
+    .btn33 {
+        height: 47px;
+        width: 140px;
+        background-color: black;
+        border: 1px rgba(255, 255, 255, 0.822) solid;
+        border-radius: 5px;
+        display: flex;
+        margin-left: 250px;
+        line-height: 1px;
+    }
+    
+    .download {
+        color: white;
+        vertical-align: top;
+        line-height: 18px;
+        margin-top: 0px;
+        font-size: 12px;
+        display: inline-block;
+    }
+    
+    .download1 {
+        color: white;
+        vertical-align: top;
+        line-height: 5px;
+        margin-top: 0px;
+        font-size: 12px;
+        display: inline-block;
+    }
+    
+    .fa-apple {
+        font-size: 28px;
+        vertical-align: middle;
+    }
+    
+    .google {
+        height: 25px;
+        width: 25px;
+        vertical-align: middle;
+    }
+
+    .final{width: 100%; height: 90px; border: 1px solid rgba(255, 255, 0, 0);}
+    .visa{width: 100px; height: 40px; margin-left: 20px;}
+    .visa1{width: 120px; height: 80px;}
+    .copy{display: inline-block; margin-left: 160px;}
